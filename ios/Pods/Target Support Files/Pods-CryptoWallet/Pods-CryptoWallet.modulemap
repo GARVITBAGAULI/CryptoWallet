@@ -1,0 +1,6 @@
+module Pods_CryptoWallet {
+  umbrella header "Pods-CryptoWallet-umbrella.h"
+
+  export *
+  module * { export * }
+}
